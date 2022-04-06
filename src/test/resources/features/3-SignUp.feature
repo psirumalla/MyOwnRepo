@@ -1,5 +1,6 @@
 /* N number of scenarios with n number of permutations and combinations can be added based on business requirements and exploratory scenarios
   also additional error msgs can be captured as well */
+  
 @web @signup
 
 Feature: Teachable SignUp Functionality
